@@ -1,0 +1,31 @@
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\bin\Debug\net6.0\appsettings.json
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\bin\Debug\net6.0\Lanchonete Csharp.staticwebassets.runtime.json
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\bin\Debug\net6.0\Lanchonete Csharp.exe
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\bin\Debug\net6.0\Lanchonete Csharp.deps.json
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\bin\Debug\net6.0\Lanchonete Csharp.runtimeconfig.json
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\bin\Debug\net6.0\Lanchonete Csharp.dll
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\bin\Debug\net6.0\Lanchonete Csharp.pdb
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.RazorAssemblyInfo.cache
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.RazorAssemblyInfo.cs
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\staticwebassets\msbuild.Lanchonete Csharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\staticwebassets\msbuild.build.Lanchonete Csharp.props
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lanchonete Csharp.props
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lanchonete Csharp.props
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\scopedcss\bundle\Lanchonete Csharp.styles.css
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\scopedcss\projectbundle\Lanchonete Csharp.bundle.scp.css
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.dll
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\refint\Lanchonete Csharp.dll
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.pdb
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\Lanchonete Csharp.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Lanchonete Csharp\Lanchonete Csharp\obj\Debug\net6.0\ref\Lanchonete Csharp.dll
