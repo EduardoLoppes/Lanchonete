@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\Lanchonete Csharp\\Lanchonete Csharp\\Lanchonete Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Lanchonete\\Lanchonete Csharp\\Lanchonete Csharp.csproj",
       "projectName": "Lanchonete Csharp",
-      "projectPath": "C:\\Users\\Aluno\\source\\repos\\Lanchonete Csharp\\Lanchonete Csharp\\Lanchonete Csharp.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Downloads\\Lanchonete\\Lanchonete Csharp\\Lanchonete Csharp.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\source\\repos\\Lanchonete Csharp\\Lanchonete Csharp\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Downloads\\Lanchonete\\Lanchonete Csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
